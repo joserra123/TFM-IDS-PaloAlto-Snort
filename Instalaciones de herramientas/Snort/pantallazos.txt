@@ -1,0 +1,5 @@
+hay que hacer los siguientes pantallazos:
+
+- sudo apt-get install snort
+- snort --version
+- nano /etc/snort.conf (que se vea nuestra IP)
